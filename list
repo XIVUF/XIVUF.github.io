@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="characters.css">
+  </head>
+  <body>
+    <a href="List.html"> The list</a>
+      <a href=index.html> the main </a>
+        <a href="Character%20explanations.html"> all characters</a>
+    <h2>List Of Marvel People I Know A Lot About </h2> 
+      <ul>
+        <li>Luke Cage</li> 
+          <li>Jessica Jones</li> 
+            <li> Daredevil</li> 
+              <li>Spiderman</li>
+                <li> Deadpool</li>
+                  <li> Iron Fist</li>
+                    </ul>
+    <h2>Favorites Ranked</h2>
+     <ol> 
+       <li>Spiderman</li>
+          <li> Deadpool </li>
+            <li> Daredevil</li> 
+              <li> Iron Fist</li> 
+                <li> Luke Cages </li>
+                  <li> Jessica Jones </li>
+                  </ol>
+    
+    </body>
+</html>
