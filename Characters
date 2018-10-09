@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel= "stylesheet" href="characters.css">
+  </head>
+  <body>
+    <a href="List.html"> The list</a>
+      <a href=index.html> the main </a>
+        <a href="Character%20explanations.html"> all characters</a>
+    <h3>Spiderman</h3>
+      <p>Spiderman is named Spider-Man because he was bit by a radioactive spider. He has many villians but my favorite one is carnage a symbiote mad from venom out of prison.</p>
+      <img src=Spiderman.jpg
+         alt=Spiderman />
+    <p> Spider-Man By bago games flickr CC-BY</p>
+    <h3>Deadpool</h3>
+      <p> Deadpool was created because he had incurable cancer so he became a testing dummy for expiraments. And now he has the power of regeneration because his body is killing the cancer as fast as its growing.</p>
+    <img src="deadpool.png"
+         alt=deadpool />
+    <p> Deadpool piq CC-BY </p>
+    <h3> Iron Fist </h3>
+      <p> Iron fist was created after his family was in a plane crash. When the plane crashed there were monks that took Danny (iron fist) to a place called kung lung. This place has a portal that opens only once every 4 years. After beating all the trials danny fought the previous iron fist and now he is the iron fist A.K.A the protector of kung lung.</p>
+    <img src="Iron%20Fist.jpg"
+         alt=Iron Fist/>
+    <p> Iron Fist by Hannaford pintrest CC-BY</p>
+    
+  </body>
+</html>
